@@ -430,7 +430,7 @@ print(f'{negative.shape = }')
     negative.shape = (17733, 8)
 
 
-These is a class imbalance. I attempted both undersampling and oversampling. Oversampling produced better results.
+There is a class imbalance. I attempted both undersampling and oversampling. Oversampling produced better results.
 
 
 ```python
